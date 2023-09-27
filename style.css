@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #422;
+ background: linear-gradient(135deg, #532c5b, #060606);
 }
 .card {
   width: 90%;
